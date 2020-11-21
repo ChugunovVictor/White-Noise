@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "white-noise"
+    }
+  },
+  "defaultProject": "white-noise",
+  "cli": {
+    "analytics": "9efe7cd4-1f95-458a-9b94-c00d2a9f9b0a"
+  }
 }
